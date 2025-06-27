@@ -39,9 +39,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rutvi0409&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## ⚡ Contributions ⚡  
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
