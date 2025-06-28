@@ -10,7 +10,7 @@
 
 ## 🌐 Connect With Me 🌐  
 
-[![LinkedIn]https---www.linkedin.com-in-rutvi-shah-55b72b317
+[![LinkedIn](https---www.linkedin.com-in-rutvi-shah-55b72b317)
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahrutvi020@gmail.com)
