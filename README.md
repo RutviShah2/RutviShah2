@@ -4,7 +4,7 @@
 🔭 I'm a Computer Science Student  
 👯 Currently learning Java, HTML, and CSS  
 🌱 Always up for learning something new and building cool projects!  
-⚡ Fun fact – Trying to maintain a GitHub streak!  
+⚡ Fun fact – Trying to maintain GitHub streak!  
 
 ---
 
