@@ -53,16 +53,3 @@ I’m a Computer Science student who’s always up for learning something new an
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-## 🟡 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/main/contribution-grid.svg"
-       alt="Pac‑Man contribution animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=🌸+Code+•+Create+•+Repeat+💻;✨+Dream+Big+•+Build+Better+🌈" />
-</p>
-
-
