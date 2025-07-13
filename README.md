@@ -1,7 +1,7 @@
 # 🌸 Hi there, I'm Rutvi Shah!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=91EAE4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀" alt="Typing animation" />
 </p>
 
 ---
@@ -20,11 +20,11 @@ I’m a Computer Science student who’s always up for learning something new an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rutvi-shah-55b72b317">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:shahrutvi020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -33,11 +33,11 @@ I’m a Computer Science student who’s always up for learning something new an
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I’m a Computer Science student who’s always up for learning something new an
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
