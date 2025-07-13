@@ -60,3 +60,8 @@ I’m a Computer Science student who’s always up for learning something new an
   <img src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/main/contribution-grid.svg"
        alt="Pac‑Man contribution animation" />
 </p>
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/77/77a5cfafdbdf09f8bc58d46ab77e88df_w200.gif" width="150"/>
+</p>
+
