@@ -1,5 +1,7 @@
+# 🌸 Hi there, I'm Rutvii Shah!
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=7FFF00&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Rutvi+Shah+👋;Code.+Create.+Repeat.+💻" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=7FFF00&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rutvi+Shah+👋;Code.+Create.+Repeat.+💻" alt="Typing animation" />
 </p>
 
 ---
