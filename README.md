@@ -42,11 +42,4 @@
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
 
-<!-- 🟡 Pac-Man graph 🟡 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RutviShah2/RutviShah2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RutviShah2/RutviShah2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/output/pacman-contribution-graph.svg">
-</picture>
-
 </div>
