@@ -53,3 +53,9 @@ I’m a Computer Science student who’s always up for learning something new an
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+## 🟡 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/main/contribution-grid.svg" alt="GitHub Pacman animation" />
+</p>
