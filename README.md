@@ -32,8 +32,6 @@ I’m a Computer Science student who’s always up for learning something new an
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
