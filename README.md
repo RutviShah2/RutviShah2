@@ -62,6 +62,6 @@ I’m a Computer Science student who’s always up for learning something new an
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/77/77a5cfafdbdf09f8bc58d46ab77e88df_w200.gif" width="150"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF69B4&height=100&section=header&text=✨%20Rutvi's%20World%20✨&fontSize=30&fontColor=FFFFFF" />
 </p>
 
