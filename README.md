@@ -40,17 +40,6 @@ I’m a Computer Science student who’s always up for learning something new an
 
 ---
 
-## 🔥 My GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RutviShah2&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="rutvi github streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RutviShah2&theme=tokyonight&hide_border=true&stroke=FFFFFF&ring=00FFFF&fire=FF6EC7&currStreakLabel=00FFFF" alt="streak fire badge"/>
-</p>
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
