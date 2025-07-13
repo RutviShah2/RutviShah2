@@ -57,6 +57,6 @@ I’m a Computer Science student who’s always up for learning something new an
 ## 🟡 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/main/pacman-grid-dark.svg"
+  <img src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/contribution-grid.svg"
        alt="Pac‑Man contribution animation" />
 </p>
