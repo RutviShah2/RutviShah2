@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About
 
 I’m a Computer Science student who’s always up for learning something new and building cool projects!
 
