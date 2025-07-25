@@ -24,6 +24,7 @@ I’m a Computer Science student who’s always up for learning something new an
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ---
@@ -52,4 +53,10 @@ I’m a Computer Science student who’s always up for learning something new an
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer&text=Thank%20you%20for%20visiting!%20☀️&fontColor=ffffff&fontAlign=40&fontAlignY=40" />
 </p>
