@@ -4,24 +4,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀" alt="Typing animation" />
 </p>
 
----
+<table>
+  <tr>
+    <td>
+      <h3>💖 I'm Rutvi Shah, a passionate Computer Science student who’s always up for learning and building!</h3>
+      <ul>
+        <li>🔭 Currently learning <strong>Java</strong> and <strong>JavaScript</strong></li>
+        <li>🌱 Love personal growth & creative problem solving</li>
+        <li>⚡ Fun fact: trying to keep my GitHub streak alive!</li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721320.png" width="150" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20💖%20by-RutviShah2-ff69b4?style=for-the-badge" />
-</p>
-
----
-
-## 💫 About Me
-
-I’m a Computer Science student who’s always up for learning something new and building cool projects!
-
-- 🔭 Currently learning *Java* and *JavaScript*  
-- 🌱 Passionate about personal growth & creative problem solving  
-- ⚡ Fun fact: I’m trying to maintain a GitHub streak!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV6b3Z6cXRwNm1hcG84dDd6ZXB0Z2g3aHh0c2ZrdWJ3Z21nZWszcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcqq/giphy.gif" height="130" />
 </p>
 
 ---
