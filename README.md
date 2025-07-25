@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20💖%20by-RutviShah2-ff69b4?style=for-the-badge" />
+</p>
+
+---
+
 ## 💫 About Me
 
 I’m a Computer Science student who’s always up for learning something new and building cool projects!
@@ -13,6 +19,10 @@ I’m a Computer Science student who’s always up for learning something new an
 - 🔭 Currently learning *Java* and *JavaScript*  
 - 🌱 Passionate about personal growth & creative problem solving  
 - ⚡ Fun fact: I’m trying to maintain a GitHub streak!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV6b3Z6cXRwNm1hcG84dDd6ZXB0Z2g3aHh0c2ZrdWJ3Z21nZWszcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcqq/giphy.gif" height="130" />
+</p>
 
 ---
 
@@ -58,5 +68,5 @@ I’m a Computer Science student who’s always up for learning something new an
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer&text=Thank%20you%20for%20visiting!%20☀️&fontColor=ffffff&fontAlign=40&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer&text=Keep+glowing,+keep+growing!+🌸&fontColor=ffffff&fontAlign=40&fontAlignY=40" />
 </p>
