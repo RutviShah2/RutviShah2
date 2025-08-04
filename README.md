@@ -25,8 +25,6 @@ I'm a Computer Science student who's always up for learning something new and bu
 ## 💻 Tech Stack
 
 <div align="center">
-  
-  ### Languages
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
