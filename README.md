@@ -42,40 +42,33 @@ I'm a Computer Science student who's always up for learning something new and bu
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RutviShah2&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=RutviShah2&theme=tokyonight&hide_border=true" />
-  
-  <br>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutviShah2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RutviShah2&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RutviShah2&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutviShah2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=tokyo-night&hide_border=true&area=true&point=00FFFF" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RutviShah2&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
+</p>
 
 ---
 
 ## ✍ Dev Quote
 
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
