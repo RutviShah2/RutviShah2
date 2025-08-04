@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀;Computer+Science+Student+✨;Always+learning+%7C+Always+growing+🌱" alt="Typing animation" />
 </p>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=RutviShah2&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RutviShah2)
-  
-</div>
-
 ---
 
 ## 💫 About Me
