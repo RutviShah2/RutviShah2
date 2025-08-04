@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" alt="Girl coding">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime girl coding">
 
 I'm a Computer Science student who's always up for learning something new and building cool projects!
 
