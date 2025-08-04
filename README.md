@@ -31,12 +31,11 @@ I'm a Computer Science student who's always up for learning something new and bu
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%111827?style=for-the-badge&logo=vercel&logoColor=white)"/>
-    <img src= "https://img.shields.io/badge/Canva-%111827?style=for-the-badge&logo=Canva&logoColor=white)"/>
-    <img src= "https://img.shields.io/badge/git-%111827?style=for-the-badge&logo=git&logoColor=white)"/>
-    <img src= "https://img.shields.io/badge/github-%111827?style=for-the-badge&logo=github&logoColor=white)"/>
-      <img src= "https://img.shields.io/badge/Notion-%111827?style=for-the-badge&logo=notion&logoColor=white)"/>
-  
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
 ---
