@@ -33,8 +33,9 @@ I'm a Computer Science student who's always up for learning something new and bu
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%111827?style=for-the-badge&logo=vercel&logoColor=white)"/>
     <img src= "https://img.shields.io/badge/Canva-%111827?style=for-the-badge&logo=Canva&logoColor=white)"/>
-    
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    <img src= "https://img.shields.io/badge/git-%111827?style=for-the-badge&logo=git&logoColor=white)"/>
+    <img src= "https://img.shields.io/badge/github-%111827?style=for-the-badge&logo=github&logoColor=white)"/>
+      <img src= "https://img.shields.io/badge/Notion-%111827?style=for-the-badge&logo=notion&logoColor=white)"/>
   
 </div>
 
