@@ -16,7 +16,6 @@ I'm a Computer Science student who's always up for learning something new and bu
 - 🌱 Passionate about **personal growth** & **creative problem solving**  
 - ⚡ Fun fact: I'm trying to maintain a **GitHub streak**!
 - 💬 Ask me about **C++**, **Data Structures**, or anything tech-related!
-- 📫 How to reach me: Feel free to connect!
 
 <br clear="right"/>
 
