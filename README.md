@@ -24,18 +24,18 @@ I'm a Computer Science student who's always up for learning something new and bu
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=canva&theme=dark" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=notion&theme=dark" title="Notion" alt="Notion" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="50" height="50"/>
 </div>
 
 
