@@ -24,18 +24,18 @@ I'm a Computer Science student who's always up for learning something new and bu
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=canva&theme=dark" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" title="Notion" alt="Notion" width="50" height="50"/>
 </div>
 
 
