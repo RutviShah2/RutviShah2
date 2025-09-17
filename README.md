@@ -30,10 +30,6 @@ I'm a Computer Science student who's always up for learning something new and bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RutviShah2&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=RutviShah2&theme=tokyonight&hide_border=true" />
 </p>
 
