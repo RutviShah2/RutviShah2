@@ -34,10 +34,12 @@ I'm a Computer Science student who's always up for learning something new and bu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutviShah2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RutviShah2&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutviShah2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
 
 ## 📈 Contribution Graph
 
