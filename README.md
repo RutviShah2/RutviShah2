@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />  
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=vercel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" /> 
