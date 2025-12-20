@@ -10,12 +10,13 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime girl coding" />
 
-✨ I'm a **Computer Science student** who's always up for learning something new and building cool projects!  
+✨ I'm a **Computer Science student** who emjoys problem solving, data exploration, and building a strong foundation in both DSA and Data Analytics!  
 
-- 🔭 Currently learning **Java** and **JavaScript**  
-- 🌱 Passionate about **personal growth** & **creative problem solving**  
+- 🔭 Learning **Data Analysis** alongside **DSA**
+- 🧠 Interested in logical thinking & algorithms
+- 🌱 Exploring **python**, **SQL**, **Statistics** & **Data Visualization**  
 - ⚡ Fun fact: I'm trying to maintain a **GitHub streak**!  
-- 💬 Ask me about **C++**, **Data Structures**, or anything tech-related!  
+- 💬 Ask me about **C++**, **Data Structures**, **SQL** or anything tech-related!  
 
 <br clear="right"/>
 
