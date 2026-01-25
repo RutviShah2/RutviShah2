@@ -88,14 +88,6 @@
 </p>
 
 ---
-
-<div align="center">  
-
-### 💚 Thanks for visiting my profile! Have a great day!  
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF6bGVtdmtrNWg4N2NyZmV6M2NuYjZjamplbGVkdGprd3JsNWtzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%99&fontSize=28&fontColor=ffffff&fontAlignY=70"/>
 </p>
