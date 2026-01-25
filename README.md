@@ -27,10 +27,6 @@
 <div align="center">
 
 ### 🛠 Languages & Tools  
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion,numpy,pandas,matplotlib,seaborn" />
-
-### 🛠 Languages & Tools  
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
