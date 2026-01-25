@@ -97,5 +97,5 @@
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%99&fontSize=28&fontColor=ffffff&fontAlignY=70"/>
 </p>
