@@ -23,33 +23,12 @@
 ---
 
 ## 💻 Tech Stack  
-<div align="center">
-
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MS%20Excel-111827?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white" /> 
-
-</div>
-
-
-
-## 💻 Tech Stack  
 
 <div align="center">
 
 ### 🛠 Languages & Tools  
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion,numpy,pandas,matplotlib,seaborn" />
-
-</div>
-
-
-## 💻 Tech Stack  
-
-<div align="center">
 
 ### 🛠 Languages & Tools  
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion" />
@@ -60,8 +39,6 @@
 
 </div>
 
-
-</div>
 
 
 ---
