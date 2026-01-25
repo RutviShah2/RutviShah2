@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hey%20there,%20I'm%20Rutvi%20Shah!&fontSize=36&fontColor=ffffff&fontAlignY=40"/>
 </p>
-
-## 🌸 Hey there, I'm Rutvi Shah!  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀;Always+learning+%7C+Always+growing+🌱" alt="Typing animation" />
