@@ -24,19 +24,15 @@
 
 ## 💻 Tech Stack  
 
-
-### 🛠 Languages & Development Tools  
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,git,github,vercel,figma,notion,vscode,mongodb" />
-<img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-<img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"/>
-<img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img height="46" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"/>
-<img height="46" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,mongodb,git,github,vercel,figma,notion,vscode,jupyter,powerbi" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img height="48" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
 
 </div>
 
