@@ -35,6 +35,8 @@
 <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+
 
 </div>
 
