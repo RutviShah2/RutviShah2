@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hey%20there,%20I'm%20Rutvi%20Shah!&fontSize=36&fontColor=ffffff&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1021,100:111827&height=190&section=header&text=Hey%20there,%20I'm%20Rutvi%20Shah!&fontSize=38&fontColor=E5E7EB&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀;Always+learning+%7C+Always+growing+🌱" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💚;Breaking+code+%7C+Building+dreams+🚀;Always+learning+%7C+Always+growing+🌱" />
 </p>
 
 ---
@@ -23,6 +23,7 @@
 <br clear="right"/>
 
 ---
+
 ## 💻 Tech Stack  
 
 <div align="center">
@@ -38,8 +39,6 @@
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-
-
 </div>
 
 ---
@@ -48,10 +47,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rutvi-shah-55b72b317">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:shahrutvi020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
@@ -76,7 +75,7 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=tokyo-night&hide_border=true&area=true&point=00FFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=tokyo-night&hide_border=true&area=true&point=818CF8" />
 </p>
 
 ---
@@ -88,6 +87,7 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%99&fontSize=28&fontColor=ffffff&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0B1021,100:050816&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=E5E7EB&fontAlignY=70"/>
 </p>
