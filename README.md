@@ -31,6 +31,11 @@
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"/>
 <img height="48" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg"/>
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+
+
+
 
 </div>
 
