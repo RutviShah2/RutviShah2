@@ -47,6 +47,24 @@
 </div>
 
 
+## 💻 Tech Stack  
+
+<div align="center">
+
+### 🛠 Languages & Tools  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion" />
+
+<br/><br/>
+
+### 📊 Data Analytics  
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" />
+
+</div>
+
+
 </div>
 
 
