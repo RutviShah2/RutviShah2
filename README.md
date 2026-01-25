@@ -42,7 +42,7 @@
 
 ### 🛠 Languages & Tools  
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,js,php,mysql,git,github,vercel,figma,canva,notion,numpy,pandas,matplotlib,seaborn" />
 
 </div>
 
