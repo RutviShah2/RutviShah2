@@ -47,6 +47,19 @@
   <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white" /> 
 </div>
 
+
+
+## 💻 Tech Stack  
+
+<div align="center">
+
+### 🛠 Languages & Tools  
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,git,github,vercel,figma,canva" />
+
+</div>
+
+
 ---
 
 ## 🌐 Connect with Me  
