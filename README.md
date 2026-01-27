@@ -26,7 +26,7 @@
 ## 💻 Tech Stack  
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,mongodb,git,github,vercel,figma,notion,render"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,mongodb,git,github,vercel,figma,notion"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
@@ -38,8 +38,6 @@
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-<img height="48" src="https://skillicons.dev/icons?i=render"/>
-
 
 </div>
 
