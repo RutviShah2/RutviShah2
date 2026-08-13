@@ -1,150 +1,264 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hey%20there,%20I'm%20Rutvi%20Shah!&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Data%20Analytics&descAlignY=58&descSize=18"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+👋;Machine+Learning+%7C+Data+Science+Enthusiast;Python+Developer+%7C+Data+Analytics;Building+Projects+One+Commit+at+a+Time+🚀;Always+Learning+Something+New+🌱" alt="Typing animation"/>
-</p>
-
----
-
-# 💫 About Me
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime girl coding"/>
-
-✨ I'm a **Computer Science undergraduate** passionate about **Machine Learning, Data Science, and Data Analytics**. I enjoy solving real-world problems through code, and I am continuously strengthening my problem-solving skills with **Data Structures & Algorithms**.
-
-- 🔭 Currently mastering **Data Structures & Algorithms (DSA)**
-- 🤖 Learning **Machine Learning** and building practical AI projects
-- 📊 Passionate about **Data Analytics** and transforming raw data into meaningful insights
-- 🧠 Strong interest in algorithms, logical thinking, and analytical problem-solving
-- 🌱 Exploring **Python**, **SQL**, **Statistics**, **Data Visualization**, and **Model Development**
-- 💻 Building projects that combine data, machine learning, and intuitive user experiences
-- 💬 Ask me about **C++**, **Python**, **SQL**, **Machine Learning**, **Data Analytics**, or **DSA**
-
-<br clear="right"/>
-
----
-# 💻 Tech Stack
-
 <div align="center">
 
-### 💻 Languages
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:171126,100:6C3CE1&height=220&section=header&text=Rutvi%20Shah&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20%7C%20Machine%20Learning&descAlignY=60&descSize=18&descColor=C9B8FF"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php"/>
+# Hey, I'm Rutvi 👋
 
-### 🌐 Web Development & Databases
+### Building with data. Learning with every commit. 🚀
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb,sqlite"/>
-
-### 🤖 Data Science & Machine Learning
-
-<img height="50" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>&nbsp;
-<img height="50" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>&nbsp;
-<img height="50" alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>&nbsp;
-<img height="50" alt="Seaborn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"/>&nbsp;
-<img height="50" alt="Jupyter Notebook" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>&nbsp;
-<img height="50" alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,notion"/>&nbsp;
-<img height="50" alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg"/>&nbsp;
-<img height="50" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;
-<img height="50" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>&nbsp;
-<img height="50" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=8B5CF6)](https://www.linkedin.com/in/rutvi-shah-55b72b317)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/RutviShah2)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:shahrutvi020@gmail.com)
 
 </div>
+
+---
+
+## 🧠 About Me
+
+I'm a **Computer Science undergraduate** interested in the intersection of **Data Science, Machine Learning, and Software Development**.
+
+I enjoy taking messy data, finding patterns, building models, and turning the results into something people can actually use.
+
+Currently, I'm focused on strengthening my foundations in **DSA, Python, SQL, Machine Learning, and Data Analytics** while building projects that combine data with practical applications.
+
+```text
+🎓 Computer Science Undergraduate
+🤖 Machine Learning & Data Science
+📊 Data Analytics & Visualization
+💻 C++ & Python
+🗄️ SQL & Databases
+🌱 Always learning, always building
+```
+
+---
+
+## ⚡ What I'm Working On
+
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🤖 Building practical **Machine Learning projects**
+* 📊 Exploring **Data Analytics & Business Intelligence**
+* 🐍 Improving my **Python + SQL** skills
+* 🚀 Turning ideas into deployable applications
+* 📚 Learning more about **AI & modern ML systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,c" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+</p>
+
+`Scikit-Learn` · `XGBoost` · `Statistics` · `EDA` · `Feature Engineering` · `Model Development`
+
+### Databases & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,html,css,js" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
+
+`Power BI` · `Streamlit` · `Canva` · `Notion`
+
 ---
 
 # 🚀 Featured Projects
 
-### 🎬 [Movie Recommendation System](https://github.com/RutviShah2/Movie-Recommender-System)
-
-A content-based recommendation system that suggests similar Bollywood movies using **TF-IDF Vectorization** and **Cosine Similarity**. Built with **Streamlit** and integrated with the **TMDB API** for real-time movie posters.
-
-**Tech Stack:** `Python` • `Scikit-Learn` • `Streamlit` • `TMDB API`
-
----
-
-### 📈 [IPO Success Analyzer](https://github.com/RutviShah2/IPO-Success-Analyzer)
-
-A Machine Learning application that predicts IPO listing performance using historical IPO data while providing interactive dashboards and insightful visualizations.
-
-**Tech Stack:** `Python` • `Flask` • `Scikit-Learn` • `SQLite` • `Chart.js`
-
----
-
-### 🛒 [RetailPulse – AI Powered Customer Analytics](https://github.com/RutviShah2/RetailPulse-AI-Powered-Customer-Analytics-Demand-)
-
-An end-to-end retail analytics platform featuring customer segmentation, demand forecasting, churn prediction, and inventory optimization powered by Machine Learning.
-
-**Tech Stack:** `Python` • `XGBoost` • `MLflow` • `Docker` • `Streamlit`
-
----
-
-# 🏆 Achievements
-
-- 🥇 Microsoft Power BI Certified
-- 📘 NPTEL – Programming in Modern C++
-- 🤖 Built multiple Machine Learning & Data Analytics projects
-- 🔥 Maintaining an active GitHub contribution streak
-
----
-
-# 🤝 Connect with Me
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/rutvi-shah-55b72b317">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:shahrutvi020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
+
+### 🎬 Movie Recommendation System
+
+A content-based Bollywood movie recommendation engine that finds similar movies using **TF-IDF Vectorization** and **Cosine Similarity**.
+
+Built with **Python + Scikit-Learn + Streamlit**, with the TMDB API used to fetch movie posters and details.
+
+**`Python` `Scikit-Learn` `Streamlit` `TMDB API`**
+
+[View Project →](https://github.com/RutviShah2/Movie-Recommender-System)
+
+---
+
+### 📈 IPO Success Analyzer
+
+A machine learning application that analyzes historical IPO data and predicts **listing performance**, while providing interactive visualizations and analytics.
+
+Built to combine **machine learning + financial data + interactive dashboards**.
+
+**`Python` `Scikit-Learn` `Flask` `SQLite` `Chart.js`**
+
+[View Project →](https://github.com/RutviShah2/IPO-Success-Analyzer)
+
+---
+
+### 🛒 RetailPulse
+
+An end-to-end **AI-powered retail analytics platform** designed to transform customer and sales data into actionable business insights.
+
+Includes customer segmentation, demand forecasting, churn prediction, and inventory optimization.
+
+**`Python` `XGBoost` `MLflow` `Docker` `Streamlit`**
+
+[View Project →](https://github.com/RutviShah2/RetailPulse-AI-Powered-Customer-Analytics-Demand-)
+
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Data & Analytics
 
-<p align="center">
-  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=RutviShah2&theme=tokyonight&hide_border=true"/>
-</p>
+I enjoy working across the complete data workflow:
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RutviShah2&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutviShah2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RutviShah2&theme=tokyo-night&hide_border=true&area=true&point=00FFFF"/>
-</p>
-
----
-
-# ✍️ Dev Quote
-
-<p align="center">
-  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
-  <br><br>
-  Let's connect, collaborate, and build something amazing together 🚀
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=footer"/>
-</p>
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Visualization
+   ↓
+Feature Engineering
+   ↓
+Machine Learning
+   ↓
+Insights / Predictions
+   ↓
+Interactive Application
 ```
+
+Tools I use include:
+
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `SQL` · `Scikit-Learn`
+
+---
+
+## 🧩 Currently Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Computer Science
+
+* Data Structures & Algorithms
+* Problem Solving
+* C++
+* Object-Oriented Programming
+* Database Systems
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Data
+
+* Machine Learning
+* Feature Engineering
+* Model Evaluation
+* Data Analytics
+* Statistics
+* AI Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Modern%20C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Projects-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Projects-111111?style=for-the-badge&logo=googleanalytics&logoColor=8B5CF6"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RutviShah2&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D0B14&title_color=C9B8FF&icon_color=8B5CF6&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RutviShah2&theme=tokyonight&hide_border=true&background=0D0B14&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9B8FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutviShah2&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D0B14&title_color=C9B8FF&text_color=FFFFFF&langs_count=8"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RutviShah2/RutviShah2/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🌱 A Little More About Me
+
+```python
+class Rutvi:
+
+    focus = [
+        "Data Science",
+        "Machine Learning",
+        "Data Analytics",
+        "DSA"
+    ]
+
+    languages = [
+        "C++",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL"
+    ]
+
+    mindset = "Learn → Build → Break → Fix → Repeat 🚀"
+```
+
+---
+
+<div align="center">
+
+### ✨ Let's build something interesting.
+
+If you're working on **Data, ML, AI, or cool software projects**, let's connect.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:171126,100:6C3CE1&height=120&section=footer"/>
+
+</div>
