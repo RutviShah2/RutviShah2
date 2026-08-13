@@ -46,37 +46,47 @@ Currently, I'm focused on strengthening my foundations in **DSA, Python, SQL, Ma
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c" />
 </p>
 
-### Data & Machine Learning
+### 🤖 Data Science & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 </p>
-
-`Scikit-Learn` · `XGBoost` · `Statistics` · `EDA` · `Feature Engineering` · `Model Development`
-
-### Databases & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,html,css,js" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/Statistics-111111?style=for-the-badge&logo=googleanalytics&logoColor=C9B8FF"/>
+  <img src="https://img.shields.io/badge/EDA-111111?style=for-the-badge&logo=databricks&logoColor=8B5CF6"/>
 </p>
 
-### Tools
+### 🗄️ Databases & Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,html,css,js" />
 </p>
 
-`Power BI` · `Streamlit` · `Canva` · `Notion`
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
+</p>
 
 ---
 
@@ -144,9 +154,18 @@ Insights / Predictions
 Interactive Application
 ```
 
-Tools I use include:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `SQL` · `Scikit-Learn`
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/Seaborn-111111?style=for-the-badge&logo=python&logoColor=C9B8FF"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+</p>
 
 ---
 
@@ -188,8 +207,11 @@ Tools I use include:
 <p align="center">
 
 <img src="https://img.shields.io/badge/Microsoft-Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+
 <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Modern%20C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=8B5CF6"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-Projects-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
 <img src="https://img.shields.io/badge/Data%20Analytics-Projects-111111?style=for-the-badge&logo=googleanalytics&logoColor=8B5CF6"/>
 
 </p>
@@ -252,12 +274,6 @@ class Rutvi:
 ---
 
 <div align="center">
-
-### ✨ Let's build something interesting.
-
-If you're working on **Data, ML, AI, or cool software projects**, let's connect.
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:171126,100:6C3CE1&height=120&section=footer"/>
 
